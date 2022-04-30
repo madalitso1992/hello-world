@@ -1,2 +1,2 @@
 # hello-world
-Training Kohonen Self Organising Map for predicting missing values and outliers 
+I am Madalitso mng'ombe a postgraduate student. 
