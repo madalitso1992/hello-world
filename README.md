@@ -1,2 +1,3 @@
 # hello-world
-Training Kohonen Self Organising Map for predicting missing values and outliers 
+I am Madalitso Mng'ombe a post graduate student
+I need your assistance on how can I train Kohonen Self Organising Map to predict missing values and Outliers
